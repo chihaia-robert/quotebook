@@ -1,3 +1,7 @@
 i am me
 
+<<<<<<< HEAD
 sad
+=======
+lmao
+>>>>>>> personal_quotes
