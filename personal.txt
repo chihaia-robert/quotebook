@@ -1,9 +1,11 @@
 i am me
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 sad
 =======
 lmao
 >>>>>>> personal_quotes
 
 black
+
